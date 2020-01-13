@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera_Capstone Project Week 3
+Coursera_Capstone Course Project
